@@ -233,6 +233,7 @@ int flex;
           onPressed: (){
           onclick(text);
           },child: Text(
+
         text,
         style: TextStyle(fontSize: 21,color: fgcolor,fontWeight: FontWeight.bold,
         ),
